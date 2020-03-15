@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "czw2": {
+      "commandName": "ConsoleApp1",
+      "commandLineArgs": "\"data/dane.csv\" \"data.xml\" \"xml\""
+    }
+  }
+}
